@@ -5,7 +5,9 @@ public class Day01 {
 
 
         System.out.println("day01");
+        System.out.println("day-02");
 
     }
+
 
 }
