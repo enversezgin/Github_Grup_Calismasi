@@ -1,6 +1,12 @@
 public class OrtakCalisma {
     public static void main(String[] args) {
 
+        System.out.println("bu bir ortak çalışmadır12312312");
+        System.out.println("ensarrrr özerden");
+        System.out.println("arda hocaaaaaam");
+
+
+
         System.out.println("bu bir ortak çalışmadır");
         System.out.println("Hatice");
 
@@ -9,6 +15,7 @@ public class OrtakCalisma {
 
         System.out.println("bu bir ortak çalışmadır2");
         System.out.println("bu bir ortak çalışmadır3");
+
 
 
     }

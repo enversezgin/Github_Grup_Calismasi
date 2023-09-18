@@ -1,2 +1,4 @@
-package C01;public class Ensar01 {
+package C01;
+
+public class Ensar01 {
 }
